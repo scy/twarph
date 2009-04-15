@@ -1,0 +1,40 @@
+h2. What is it?
+
+Twarph is a Twitter client for Windows Mobile devices, based on the .NET Compact Framework 2.0.
+
+h2. Features
+
+h3. Current Features
+
+* Run a hard-coded search query.
+* Post to your account (after setting user and password).
+* Does all things in the background, without UI lags.
+* "Nothing happens" button that does what it says.
+
+h3. Really Basic Features That Are Currently Missing
+
+* Character count.
+* Scrolling.
+* Beautiful UI.
+* Customizing the search query.
+
+h3. Features That Will Be Coming
+
+Yeah. Lots. Soon and stuff.
+
+h2. Who Does It?
+
+This code is written by Tim Weber.
+Contact me at http://scytale.name/.
+
+h2. Why Are You Releasing It?
+
+According to the motto "release early, release often".
+
+Also I needed some kind of project page.
+
+h2. What License Is It Released Under?
+
+Since this project is right now less than a week old, I'm not sure yet, but it will be a true open-source license.
+Right now you can view the code and you may use and modify it for personal use, but not distribute it.
+But I do accept patches.
